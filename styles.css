@@ -138,5 +138,6 @@ footer {
 
     .product-card-text {
         max-width: 18rem;
+        min-width: 16rem;
     }    
 }
